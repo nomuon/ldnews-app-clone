@@ -1,0 +1,35 @@
+{
+  "notifications": [
+    {
+      "id": "18253316",
+      "title": "ソニー、『PlayStation Studios』ブランドを新設。",
+      "notificationType": "digest",
+      "thumbnailUrl": "https://www.sony.co.jp/top/2017/img/icon/Sonylogo_SNS.png",
+      "publicDatetime": "2020-05-15T14:00:00+0900"
+    },
+    {
+      "id": "18251815",
+      "title": "第3新東京市で最大震度99の地震が発生しました",
+      "notificationType": "earthquake",
+      "thumbnailUrl": "https://www.jma.go.jp/jp/quake/images/japan/20200514232339393-15082119.png",
+      "publicDatetime": "2020-05-15T01:52:23+0900",
+      "body": "【地震情報 2020年5月15日】 1時50分頃、地球を震源とする地震がありました。震源の深さは約4000km、地震の規模はM361、最大震度99を第3新東京市で観測しています。この地震による津波の心配はありません。"
+    },
+    {
+      "id": "18252383",
+      "title": "木組みの街で最大震度20の地震が発生しました",
+      "notificationType": "earthquake",
+      "thumbnailUrl": "https://www.jma.go.jp/jp/quake/images/japan/20200514232339393-15082119.png",
+      "publicDatetime": "2020-05-14T13:55:41+0900",
+      "body": "【地震情報 2020年5月14日】 13時54分頃、地球を震源とする地震がありました。震源の深さは約200km、地震の規模はM120、最大震度20を木組みの街で観測しています。この地震による津波の心配はありません。"
+    },
+    {
+      "id": "18249186",
+      "title": "今日の晩御飯はカレーでした",
+      "notificationType": "information",
+      "thumbnailUrl": null,
+      "publicDatetime": "2020-05-12T13:31:42+0900",
+      "body": "明日の朝ごはんはホットサンドにしようと思います。"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "articles": [
+    {
+      "id": "18253316",
+      "title": "ソニー、『PlayStation Studios』ブランドを新設。オープニング動画ロゴ公開",
+      "venderName": "Engadget 日本版",
+      "thumbnailUrl": "https://yurucamp.jp/camping/content/themes/ycp-sp/images/index_c3_main.jpg",
+      "venderImageUrl": "https://image.news.livedoor.com/newsimage/vender/engadget.jpg"
+    },
+    {
+      "id": "18252383",
+      "title": "要約サイトで人気だった｢4月のビジネス書｣ベスト20",
+      "venderName": "プレジデントオンライン",
+      "thumbnailUrl": null,
+      "venderImageUrl": "https://image.news.livedoor.com/newsimage/vender/president.gif"
+    },
+    {
+      "id": "18249186",
+      "title": "本田が巻き込まれる！？ ボタフォゴ買収に要注意人物",
+      "venderName": "東スポWeb",
+      "thumbnailUrl": "https://image.news.livedoor.com/newsimage/stf/c/b/cb78c_1399_b8d96fec_158c7cd4.jpg",
+      "venderImageUrl": "https://image.news.livedoor.com/newsimage/vender/tokyo-sports.gif"
+    },
+    {
+      "id": "18252143",
+      "title": "「世代別日本代表の主人公」　日本の“18歳コンビ”に伊メディア注目「今なら獲得できる」",
+      "venderName": "Football ZONE web",
+      "thumbnailUrl": "https://image.news.livedoor.com/newsimage/stf/a/0/a0e02_1610_b59f89cf_3a64423f.jpg",
+      "venderImageUrl": "https://image.news.livedoor.com/newsimage/vender/football-zone.jpg"
+    },
+    {
+      "id": "18252109",
+      "title": "【MLB】菊池雄星に米メディアが厳しい評価　昨季の球種は全て「リーグ最低レベル」",
+      "venderName": "フルカウント",
+      "thumbnailUrl": "https://image.news.livedoor.com/newsimage/stf/7/f/7fbf7_1397_bcbea00e_e36a16fc.jpg",
+      "venderImageUrl": "https://image.news.livedoor.com/newsimage/vender/full-count.jpg"
+    },
+    {
+      "id": "18251753",
+      "title": "イニエスタ、リベリ、イブラら“重鎮”がズラリ！ 伊メディアが「36歳以上の市場価値世界ランク」を一挙紹介！",
+      "venderName": "サッカーダイジェストWeb",
+      "thumbnailUrl": "https://image.news.livedoor.com/newsimage/stf/5/0/50a01_1429_9e86f060_2599e505.jpg",
+      "venderImageUrl": "https://image.news.livedoor.com/newsimage/vender/soccerdigestweb.jpg"
+    },
+    {
+      "id": "18254012",
+      "title": "タクシー運転手８割不安「手取り１０万…」",
+      "venderName": "日テレNEWS24",
+      "thumbnailUrl": null,
+      "venderImageUrl": "https://image.news.livedoor.com/newsimage/vender/news24.jpg"
+    },
+    {
+      "id": "18245764",
+      "title": "政府が34県の緊急事態宣言を一斉解除で調整 特定警戒の一部も対象",
+      "venderName": "野村新聞",
+      "thumbnailUrl": "https://image.news.livedoor.com/newsimage/stf/d/4/d4fb4_1675_58c6f5821b0a38fff282698d16366e97.jpg",
+      "venderImageUrl": "https://image.news.livedoor.com/newsimage/stf/vender/thiskijiis.png"
+    },
+    {
+      "id": "18251815",
+      "title": "Zoom会議で｢この人慣れてるな｣と思わせる､ワンランク上のテク5つ",
+      "venderName": "プレジデントオンライン",
+      "thumbnailUrl": "https://image.news.livedoor.com/newsimage/stf/4/9/49da7_1238_2a32ddae0d0350d6fdd5b5d2f3cac2d4.jpg",
+      "venderImageUrl": "https://image.news.livedoor.com/newsimage/vender/president.gif"
+    },
+    {
+      "id": "18253457",
+      "title": "夜8時以降も営業　飲食店 決断迫られ",
+      "venderName": "FNNプライムオンライン",
+      "thumbnailUrl": "https://image.news.livedoor.com/newsimage/stf/6/9/69007_1726_6b9e0f7d_72b4e63a.jpg",
+      "venderImageUrl": "https://image.news.livedoor.com/newsimage/stf/vender/fnn.jpg"
+    },
+    {
+      "id": "18247851",
+      "title": "ユーチューバー、“線路立ち入り”写真公開で物議 書類送検された早見優&松本伊代と同じ場所疑惑も",
+      "venderName": "リアルライブ",
+      "thumbnailUrl": "https://image.news.livedoor.com/newsimage/stf/c/f/cf7e2_188_786ef1eb_4b0a6cb6.jpg",
+      "venderImageUrl": "https://image.news.livedoor.com/newsimage/vender/naigai.jpg"
+    }
+  ]
+}

@@ -17,6 +17,8 @@
         >
           <TopicsList :topics="todayTopics" class="topics-block" />
 
+          <Carousel :articles="todayTopics" />
+
           <ArticlesList
             :articles="todayArticles"
             class="articles-block"
@@ -43,6 +45,7 @@ import Vue from "vue";
 import HomeTab from "@/components/HomeTab.vue";
 import TopicsList from "@/components/TopicsList.vue";
 import ArticlesList from "@/components/ArticlesList.vue";
+import Carousel from "@/components/Carousel.vue";
 import TabBar from "@/components/TabBar.vue";
 import Drawer from "@/components/Drawer.vue";
 import { Article } from "@/store/types";
@@ -53,6 +56,7 @@ export default Vue.extend({
     HomeTab,
     TopicsList,
     ArticlesList,
+    Carousel,
     TabBar,
     Drawer
   },

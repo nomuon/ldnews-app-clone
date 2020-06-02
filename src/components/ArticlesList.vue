@@ -54,7 +54,7 @@ export default Vue.extend({
     }
   },
   methods: {
-    pushArticleScreen(articleId: string): void {
+    pushArticleScreen(articleId: Article["id"]): void {
       const articlePath = `/article/${articleId}`;
       this.$router.push(articlePath);
     },

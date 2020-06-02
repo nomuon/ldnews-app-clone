@@ -69,7 +69,7 @@ export default Vue.extend({
       background-color: #ffffff;
       font-weight: bold;
       white-space: normal;
-      border-radius: 4px 4px 0 0;
+      border-radius: 4px;
 
       img {
         display: block;
@@ -80,6 +80,7 @@ export default Vue.extend({
 
       img.thumbnail {
         object-fit: cover;
+        border-radius: 4px 4px 0 0;
       }
 
       img.vender-image {
